@@ -3,13 +3,20 @@ layout: page
 title: About
 permalink: /about/
 ---
+I'm a person interested in people, systems, and design.
+I'm an intuitive thinker who is driven to find flexible solutions to meaningful problems.
+I particularly enjoy working with others like myself, who are energetic, engaging, and passionate.
+If you are like-minded and would like to work with me on a project, feel free to reach out.
 
-Some information about you!
+### Professional Interests
+Data Science, Statistics, Coding, Medicine, Nursing, Healthcare Quality, Mental Health
 
-### More Information
+### Research Interests
+Dimension Reduction, MRO, Model Selection, Kolmogorov's Axioms, Patient Adherence, Wellness
 
-A place to include any other types of information that you'd like to include about yourself.
+### Activities
+Hiking, Skiing, Snowshoeing, Shooting, Gardening, Spirituality
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[W.J. Baum](mailto:milocerdia@gmail.com)
