@@ -8,7 +8,7 @@ I'm an intuitive thinker who is driven to find flexible solutions to meaningful 
 Energetic, engaging, and passionate.
 
 ### Professional Interests
-Data Science, Statistics, Coding, Medicine, Nursing, Healthcare Quality, Mental Health
+Data Science, Statistics, Coding, Medicine, Nursing, Mental Health, Healthcare Quality
 
 ### Research Interests
 Dimension Reduction, MRO, Model Selection, Kolmogorov's Axioms, Patient Adherence
