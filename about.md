@@ -4,7 +4,7 @@ title: About me
 permalink: /about/
 ---
 I'm a person interested in people, systems, and design.
-I'm an intuitive thinker who is driven to find flexible solutions to meaningful problems.
+I'm an intuitive thinker who is driven to find flexible solutions to meaningful problems.  
 Energetic, engaging, and passionate.
 
 ### Professional Interests
