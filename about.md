@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 I'm a person interested in people, systems, and design.
@@ -12,11 +12,10 @@ If you are like-minded and would like to work with me on a project, feel free to
 Data Science, Statistics, Coding, Medicine, Nursing, Healthcare Quality, Mental Health
 
 ### Research Interests
-Dimension Reduction, MRO, Model Selection, Kolmogorov's Axioms, Patient Adherence, Wellness
+Dimension Reduction, MRO, Model Selection, Kolmogorov's Axioms, Patient Adherence
 
 ### Activities
 Hiking, Skiing, Snowshoeing, Shooting, Gardening, Spirituality
 
 ### Contact me
-
 [W.J. Baum](mailto:milocerdia@gmail.com)
