@@ -19,4 +19,4 @@ Hiking, Skiing, Snowshoeing, Shooting, Gardening, Spirituality
 ### Contact me
 [W.J. Baum](mailto:milocerdia@gmail.com)
 
-### [My Resume](https://github.com/Codr99/Portfolio/blob/master/William%20Baum%20Resume.pdf)
+### [My Resume](https://resume.creddle.io/resume/cnasculn0uo)
