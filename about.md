@@ -14,9 +14,8 @@ Data Science, Statistics, Coding, Medicine, Nursing, Mental Health, Healthcare Q
 Dimension Reduction, MRO, Model Selection, Kolmogorov's Axioms, Patient Adherence
 
 ### Activities
-Hiking, Skiing, Snowshoeing, Shooting, Gardening, Spirituality
+Hiking, Skiing, Snowshoeing, Gardening, Spirituality
 
 ### Contact me
 [W.J. Baum](mailto:milocerdia@gmail.com)
 
-### [My Resume](https://resume.creddle.io/resume/cnasculn0uo)
